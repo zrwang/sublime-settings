@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"AutoFileName",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"Dayle Rees Color Schemes",
+		"Emacs Pro Essentials",
+		"GitGutter",
+		"Google Spell Check",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	]
+}
