@@ -1,5 +1,4 @@
 {
-    "color_scheme": "Packages/Predawn/predawn-markdown.tmTheme",
     "draw_centered": true, // Centers the column in the window
     "draw_indent_guides": false,
     "font_size": 15,
