@@ -7,13 +7,16 @@
 		"da",
 		"rheological"
 	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 12,
 	"ignored_packages":
 	[
+		"Codecs33",
 		"SublimeCodeIntel",
 		"Vintage"
 	],
 	"show_definitions": false,
 	"spell_check": true,
 	"theme": "ayu-dark.sublime-theme",
-	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme"
+	"word_wrap": true
 }
