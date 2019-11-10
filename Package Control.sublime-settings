@@ -5,10 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
-		"Anaconda",
 		"AutoFileName",
-		"AutoPEP8",
 		"ayu",
 		"BracketHighlighter",
 		"CMake",
