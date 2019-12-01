@@ -1,4 +1,16 @@
 {
+	"theme": "ayu-dark.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 12,
+	"word_wrap": true,
+	"spell_check": true,
+	"show_definitions": false,
+	"trim_trailing_white_space_on_save": true,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage"
+	],
 	"added_words":
 	[
 		"regressor",
@@ -6,17 +18,5 @@
 		"da",
 		"Vinci",
 		"rheological"
-	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 12,
-	"ignored_packages":
-	[
-		"SublimeCodeIntel",
-		"Vintage"
-	],
-	"show_definitions": false,
-	"spell_check": true,
-	"theme": "ayu-dark.sublime-theme",
-	"word_wrap": true,
-	"trim_trailing_white_space_on_save": true
+	]
 }
