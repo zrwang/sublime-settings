@@ -1,3 +1,7 @@
 [
-	{ "keys": ["ctrl+h"], "command": "left_delete" }
+	{ "keys": ["ctrl+alt+l"], "command": "reindent", "args": {"single_line": false}},
+	{ "keys": ["ctrl+x", "b"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+x", "0"], "command": "focus_side_bar" },
+	{ "keys": ["ctrl+h"], "command": "left_delete" },
+	{ "keys": ["alt+shift+5"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} }
 ]
