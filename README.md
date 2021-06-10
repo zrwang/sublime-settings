@@ -28,6 +28,6 @@ Linux
 Windows
 
 ```BASH
-/mnt/c/Users/$(whoami)/AppData/Roaming/Sublime Text 3/Packages/User # ubuntu subsystem component
-C:\Users\%USERNAME%\AppData\Roaming\Sublime Text 3\Packages\User # windows directory
+/mnt/c/Users/$(whoami)/AppData/Roaming/Sublime Text/Packages/User # ubuntu subsystem component
+C:\Users\%USERNAME%\AppData\Roaming\Sublime Text\Packages\User # windows directory
 ```
