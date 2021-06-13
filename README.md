@@ -1,4 +1,4 @@
-install package control
+**INSTALL package control** before you can install the packages automatically!
 
 ```
 https://packagecontrol.io/installation
